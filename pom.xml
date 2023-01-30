@@ -3,6 +3,8 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>proj4</groupId>
   <artifactId>proj4</artifactId>
+  <configuration>
+  <webXml>WebContent\WEB-INF\web.xml</webXml></configuration>
   <packaging>war</packaging>
   <version>proj4</version>
   <name>makumba-archetype</name>
